@@ -1,0 +1,3 @@
+Version for TF=2.16.2
+
+Retraining is present in user App  if you delete the model just run python training_model.py it will retrain
